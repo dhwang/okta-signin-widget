@@ -6,9 +6,6 @@ setup_service grunt
 setup_service bundler
 setup_service node v8.0.0
 
-# Use newer, faster npm
-npm install -g npm@4.0.2
-
 # Install required dependencies
 npm install -g @okta/ci-update-package
 npm install -g @okta/ci-pkginfo
