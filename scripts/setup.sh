@@ -4,6 +4,7 @@ cd ${OKTA_HOME}/${REPO}
 
 setup_service grunt
 setup_service bundler
+setup_service node v8.0.0
 
 # Use newer, faster npm
 npm install -g npm@4.0.2
