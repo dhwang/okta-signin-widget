@@ -89,8 +89,5 @@
     "q": "1.4.1",
     "u2f-api-polyfill": "0.4.1",
     "underscore": "1.8.3"
-  },
-  "optionalDependencies": {
-    "fsevents": "*"
   }
 }
